@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  background: #020617;
+}
+
+a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+.hero {
+  padding: 100px;
+  text-align: center;
+}
